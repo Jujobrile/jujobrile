@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hola! 👋
 
-<!--
-**Jujobrile/jujobrile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es Juan José Briceño León. Llevo 6 años trabjando en UX design y maquetado web para Open Intelligence.
 
-Here are some ideas to get you started:
+:computer: **Ingeniero de Multimedia**  
+:school: **Universidad autónoma de occidente**  
+:pencil: **Conocimiento en maquetado web con html, css y react.js**  
+:person: **Me gusta el cine, los videojuegos, la tecnología, la música, la lectura y los gatos**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Vías de contacto
+
+:whatsapp: 3128687278  
+:mail: jujobrile1994@gmail.com
