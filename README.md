@@ -9,5 +9,5 @@ Mi nombre es Juan José Briceño León. Llevo 6 años trabjando en UX design y m
 
 ### Vías de contacto
 
-:whatsapp: 3128687278  
-:mail: jujobrile1994@gmail.com
+:mobile_phone: 3128687278  
+:email: jujobrile1994@gmail.com
